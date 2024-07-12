@@ -1,0 +1,12 @@
+{
+  "owner": "jasper",
+  "priority": "0",
+  "processingType": "TASK",
+  "serverNodeType": "LINUX",
+  "taskType": "SH",
+  "customFieldValues": {
+  },
+  "processingCommand": {
+    "script": "echo привет\n\nsleep 100"
+  }
+}
