@@ -7,6 +7,6 @@
   "customFieldValues": {
   },
   "processingCommand": {
-    "script": "echo привет мир\n\necho hello world\n\necho test (123@!)//\\ $\n\nsleep 100"
+    "script": "echo привет мир\n\necho hello world\n\necho test (123@!)//\\ $\n\necho this is a test\n\nsleep 100"
   }
 }
